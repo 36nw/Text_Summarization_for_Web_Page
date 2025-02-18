@@ -9,7 +9,6 @@ This project demonstrates how to use web scraping techniques with BeautifulSoup 
 - [Usage](#usage)
 - [Data](#data)
 - [License](#license)
-- [Notes](#notes)
 
 ## Overview
 
